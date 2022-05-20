@@ -3,6 +3,7 @@
 Simulation code for the manuscript.
 
 ## How to cite
+```latex
 @inproceedings{callebaut2022,
   title={{Grant-Free Random Access in Massive MIMO for Static Low-Power IoT Nodes}},
   author={Gilles Callebaut, Liesbet Van der Perre and Fran\c{c}ois Rottenberg},
@@ -10,3 +11,4 @@ Simulation code for the manuscript.
   year={2022},
   organization={Werkgemeenschap voor Informatie-en Communicatietheorie (WIC)}
 }
+```
